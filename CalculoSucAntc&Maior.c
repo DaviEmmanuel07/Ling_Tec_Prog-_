@@ -11,7 +11,6 @@ int main(int argc, char *argv[]) {
     sucessor = n+1;
     antecessor = n-1;
     printf("o numero &d, seu antecessor %d e seu sucessor %d ", sucessor, antecessor);
-return 0;
   
 
  int a,b,c, maiorTemp, maior;
